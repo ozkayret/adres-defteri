@@ -5,8 +5,9 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "4.16.4"
+    "express": "4.13.3"
   },
+
   "author": "ozkan kayret",
   "license": "ISC"
 }
